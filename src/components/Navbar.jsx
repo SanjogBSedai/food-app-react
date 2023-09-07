@@ -73,6 +73,7 @@ const Navbar = () => {
           Best <span className="font-bold">Eats</span>
         </h2>
         <nav>
+          {/* unordered list  */}
           <ul className="flex flex-col p-4 text-gray-800">
             <li className="text-xl flex py-4">
               <TbTruckDelivery size={30} className="mr-4" />
