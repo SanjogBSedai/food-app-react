@@ -8,6 +8,7 @@ import Category from "./components/Category";
 function App() {
   return (
     <div className="App">
+      {/* importing */}
       <Navbar />
       <Hero />
       <HeadlineCards />
